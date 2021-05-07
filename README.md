@@ -9,4 +9,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Karamosky's GitHub stats](https://github-readme-stats.vercel.app/api?username=karamosky&count_private=true)
-[![Karamosky's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karamosky)](https://github.com/anuraghazra/github-readme-stats)
