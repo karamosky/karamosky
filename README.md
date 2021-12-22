@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Karam EL HABOUTI (@karamosky on social networks)
-- 👀 I’m interested in programming in general but I love doing web development in particular
-- 🌱 I’m currently learning DDD, Rust
+- 👋 Hi, I’m Karam ELHABOUTI (@karamosky on social networks)
+- 👀 I’m a passionate programmer
+- 🌱 I’m currently learning DDD, Rust, Event Sourcing
 - 📫 How to reach me: use @karamosky on Twitter
 
 <!---
